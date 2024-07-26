@@ -3,7 +3,7 @@ defineProps(['produto'])
 </script>
 <template>
    <div class="resultado">
-        <h2>Dados do produto</h2>
+        <h2>Dados do produt</h2>
         <p>Nome:{{ produto.nome }}</p>
         <p>data de nascimento: {{ produto.data }}</p>
         <p>cidade: {{ produto.cidade }}</p>
